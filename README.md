@@ -1,1 +1,2 @@
-# Lacost-student
+# Lasoft-student
+Практичні завдання навчальні
