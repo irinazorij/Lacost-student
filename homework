@@ -1,1 +1,23 @@
+1. Write Ruby program to get the ruby version with patch number.
+~$ ruby -v
+Ruby Version: ruby 2.3.1p112
+Ruby Patch Level: 112
 
+2. Write a Ruby program to display the current date and time.
+~$ date
+Current Date and Time: понеділок, 21 червня 2021 23:46:15 +0300
+
+3. Write a Ruby program to create a new string which is n copies of a given string where n is a non-negative integer.
+Sample Output:
+a
+aa
+aaa
+aaaa
+aaaaa
+
+if n > 0 do
+  until i <= n
+    print "a"
+    i+=1
+  end
+end
