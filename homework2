@@ -1,0 +1,13 @@
+4. Write a Ruby program which accepts the radius of a circle from the user
+ and compute the parameter and area.
+
+ pi = 3.14
+ r = gets.chop
+ def parameter
+   @parameter = 2 * pi * r
+   print( "The parameter is #{parameter}" )
+ end
+ def area
+   @area = pi * r ** 2
+   print( "The area is #{area}" )
+ end
